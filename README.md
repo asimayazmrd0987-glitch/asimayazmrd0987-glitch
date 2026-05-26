@@ -11,9 +11,9 @@
 
 ### CS Student · Systems Thinker · Linux Native
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=333)](https://github.com/YOUR_USERNAME)
-[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=brightgreen)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/asim-ayaz)
+[![GitHub followers](https://img.shields.io/github/followers/asimayazmrd0987-glitch?style=flat-square&color=333)](https://github.com/asimayazmrd0987-glitch)
+[![Profile views](https://komarev.com/ghpvc/?username=asimayazmrd0987-glitch&style=flat-square&color=brightgreen)](https://github.com/asimayazmrd0987-glitch)
 
 </div>
 
@@ -29,7 +29,7 @@ Role     : CS Student @ UET Mardan (Semester 2) | GPA: 3.6/4.0
 Location : Pakistan
 OS       : Linux (KDE Plasma) — always
 Focus    : Systems · Cybersecurity · Backend Engineering
-Learning : CCNA · Cloud/DevOps · C++ Internals
+Learning : CCNA · Docker · Cloud/DevOps · C++ Internals
 Reading  : Dostoevsky · Camus · Marcus Aurelius
 ```
 
@@ -41,20 +41,20 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 ## 🔨 Featured Projects
 
-### [MyShell](https://github.com/YOUR_USERNAME/myshell) — C++ Shell Interpreter
+### [MyShell](https://github.com/asimayazmrd0987-glitch/myshell) — C++ Shell Interpreter
 > A cross-platform Unix-style shell interpreter built in C++ demonstrating 13 OOP concepts across 450+ lines of production code.
 
-- Custom command parsing, piping, and I/O redirection
+- Custom command parsing, piping, and I/O redirection from scratch
 - Demonstrates: inheritance, polymorphism, operator overloading, dynamic memory, templates, and more
 - Built with a team of three as a semester capstone project
 - `C++` `OOP` `Systems` `Shell` `Cross-Platform`
 
 ---
 
-### [Synapse](https://github.com/YOUR_USERNAME/synapse) — CS Problem Solving Platform *(In Progress)*
+### [Synapse](https://github.com/asimayazmrd0987-glitch/synapse) — CS Problem Solving Platform *(In Progress)*
 > A full-stack web platform for structured CS problem-solving and learning.
 
-- React + Vite frontend, Node.js/Express backend, PostgreSQL database
+- React + Vite frontend · Node.js/Express backend · PostgreSQL database
 - `React` `Node.js` `Express` `PostgreSQL` `Full-Stack`
 
 ---
@@ -62,12 +62,12 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 ## 🛠️ Tech Stack
 
 ```
-Languages     │ C++  ·  Python  ·  Bash  ·  SQL
-Systems       │ Linux (Ubuntu/KDE)  ·  Dual-boot  ·  Shell scripting
-Networking    │ CCNA (in progress)  ·  TCP/IP  ·  DNS  ·  Subnetting
+Languages     │ C  ·  C++/STL  ·  Bash  ·  Python  ·  HTML/CSS
+Systems       │ Linux (Ubuntu/KDE)  ·  Shell scripting  ·  OS-level debugging
+Networking    │ CCNA (in progress)  ·  TCP/IP  ·  DNS  ·  Subnetting  ·  VLANs
+DevOps/Cloud  │ Docker  ·  Virtualization  ·  Cloud Fundamentals  ·  AWS (exploring)
 Web           │ React  ·  Node.js  ·  Express  ·  PostgreSQL
 Tools         │ Git  ·  GitHub  ·  VS Code  ·  GDB
-Learning Now  │ Docker  ·  AWS  ·  Kubernetes  ·  DevOps
 ```
 
 ---
@@ -76,17 +76,15 @@ Learning Now  │ Docker  ·  AWS  ·  Kubernetes  ·  DevOps
 
 <div align="center">
 
-![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimayazmrd0987-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimayazmrd0987-glitch&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
 ## 🗺️ Roadmap
-
-What I'm actively working toward:
 
 - [ ] Complete CCNA certification
 - [ ] TryHackMe — Jr Penetration Tester path
@@ -101,8 +99,8 @@ What I'm actively working toward:
 
 If you're working on something interesting in systems, security, or backend engineering — or you just want to argue about Dostoevsky — reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-Write-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/asim-ayaz)
+[![Email](https://img.shields.io/badge/Email-Write-EA4335?style=for-the-badge&logo=gmail)](mailto:asimayazmrd0987@gmail.com)
 
 ---
 
