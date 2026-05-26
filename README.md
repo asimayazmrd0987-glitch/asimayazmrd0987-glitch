@@ -25,15 +25,15 @@
 $ cat about.txt
 
 Name     : Asim Ayaz
-Role     : CS Student @ UET Mardan (Semester 2) | GPA: 3.6/4.0
+Role     : CS Student @ University of Engineering & Technology Mardan
 Location : Pakistan
 OS       : Linux (KDE Plasma) — always
-Focus    : Systems · Cybersecurity · Backend Engineering
+Focus    : Systems(C/C++) · DevOps . Cloud Computing . Cybersecurity · Backend Engineering 
 Learning : CCNA · Docker · Cloud/DevOps · C . C++ Internals . STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius
 ```
 
-I build things close to the metal. I'm more interested in *how* software works than in what it produces — compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification and building toward a career in cybersecurity or backend/systems engineering.
+I build things close to the metal. I'm more interested in *how* software works than in what it produces — compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration[Certified] and building toward a career in cybersecurity or backend/systems engineering.
 
 I run Linux as my primary OS — not for aesthetics, but because understanding your tools at the OS level makes you a better engineer.
 
