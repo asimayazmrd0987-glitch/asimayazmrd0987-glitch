@@ -29,7 +29,7 @@ Role     : CS Student @ UET Mardan (Semester 2) | GPA: 3.6/4.0
 Location : Pakistan
 OS       : Linux (KDE Plasma) — always
 Focus    : Systems · Cybersecurity · Backend Engineering
-Learning : CCNA · Docker · Cloud/DevOps · C++ Internals
+Learning : CCNA · Docker · Cloud/DevOps · C . C++ Internals . STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius
 ```
 
@@ -76,9 +76,9 @@ Tools         │ Git  ·  GitHub  ·  VS Code  ·  GDB
 
 <div align="center">
 
-![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimayazmrd0987-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asimayazmrd0987-glitch&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimayazmrd0987-glitch&layout=compact&theme=tokyonight&hide_border=true)
+[![Asim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimayazmrd0987-glitch&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
