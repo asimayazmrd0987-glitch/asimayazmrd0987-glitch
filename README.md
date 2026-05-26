@@ -1,40 +1,111 @@
-<h1 align="center">Hi 👋, I'm Asim Ayaz</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asimayazmrd0987-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="asimayazmrd0987-glitch" /> </p>
+```
+ █████╗ ███████╗██╗███╗   ███╗     █████╗ ██╗   ██╗ █████╗ ███████╗
+██╔══██╗██╔════╝██║████╗ ████║    ██╔══██╗╚██╗ ██╔╝██╔══██╗╚══███╔╝
+███████║███████╗██║██╔████╔██║    ███████║ ╚████╔╝ ███████║  ███╔╝ 
+██╔══██║╚════██║██║██║╚██╔╝██║    ██╔══██║  ╚██╔╝  ██╔══██║ ███╔╝  
+██║  ██║███████║██║██║ ╚═╝ ██║    ██║  ██║   ██║   ██║  ██║███████╗
+╚═╝  ╚═╝╚══════╝╚═╝╚═╝     ╚═╝    ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asimayazmrd0987-glitch" alt="asimayazmrd0987-glitch" /></a> </p>
+### CS Student · Systems Thinker · Linux Native
 
-- 🔭 I’m currently working on [C++ Project.](https://github.com/asimayazmrd0987-glitch/Projects)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=333)](https://github.com/YOUR_USERNAME)
+[![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=brightgreen)](https://github.com/YOUR_USERNAME)
 
-- 🌱 I’m currently learning **DevOps and Linux Kernel.**
+</div>
 
-- 👯 I’m looking to collaborate on **DevOps Projects.**
+---
 
-- 🤝 I’m looking for help with **DevOps & Cloud Computing.**
+## `whoami`
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/asim-ayaz/](https://www.linkedin.com/in/asim-ayaz/)
+```bash
+$ cat about.txt
 
-- 📝 I regularly write articles on [Git & GitHub](Git & GitHub)
+Name     : Asim Ayaz
+Role     : CS Student @ UET Mardan (Semester 2) | GPA: 3.6/4.0
+Location : Pakistan
+OS       : Linux (KDE Plasma) — always
+Focus    : Systems · Cybersecurity · Backend Engineering
+Learning : CCNA · Cloud/DevOps · C++ Internals
+Reading  : Dostoevsky · Camus · Marcus Aurelius
+```
 
-- 💬 Ask me about **DevOps, Linux, System Administration.**
+I build things close to the metal. I'm more interested in *how* software works than in what it produces — compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification and building toward a career in cybersecurity or backend/systems engineering.
 
-- 📫 How to reach me **asimayazmrd0987@gmail.com**
+I run Linux as my primary OS — not for aesthetics, but because understanding your tools at the OS level makes you a better engineer.
 
-- 📄 Know about my experiences [Check my profile](Check my profile)
+---
 
-- ⚡ Fun fact **I do Mind Callusing**
+## 🔨 Featured Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/asim-ayaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asim-ayaz/" height="30" width="40" /></a>
-</p>
+### [MyShell](https://github.com/YOUR_USERNAME/myshell) — C++ Shell Interpreter
+> A cross-platform Unix-style shell interpreter built in C++ demonstrating 13 OOP concepts across 450+ lines of production code.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Custom command parsing, piping, and I/O redirection
+- Demonstrates: inheritance, polymorphism, operator overloading, dynamic memory, templates, and more
+- Built with a team of three as a semester capstone project
+- `C++` `OOP` `Systems` `Shell` `Cross-Platform`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimayazmrd0987-glitch&show_icons=true&locale=en&layout=compact" alt="asimayazmrd0987-glitch" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asimayazmrd0987-glitch&show_icons=true&locale=en" alt="asimayazmrd0987-glitch" /></p>
- 
- 
+### [Synapse](https://github.com/YOUR_USERNAME/synapse) — CS Problem Solving Platform *(In Progress)*
+> A full-stack web platform for structured CS problem-solving and learning.
+
+- React + Vite frontend, Node.js/Express backend, PostgreSQL database
+- `React` `Node.js` `Express` `PostgreSQL` `Full-Stack`
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages     │ C++  ·  Python  ·  Bash  ·  SQL
+Systems       │ Linux (Ubuntu/KDE)  ·  Dual-boot  ·  Shell scripting
+Networking    │ CCNA (in progress)  ·  TCP/IP  ·  DNS  ·  Subnetting
+Web           │ React  ·  Node.js  ·  Express  ·  PostgreSQL
+Tools         │ Git  ·  GitHub  ·  VS Code  ·  GDB
+Learning Now  │ Docker  ·  AWS  ·  Kubernetes  ·  DevOps
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Asim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🗺️ Roadmap
+
+What I'm actively working toward:
+
+- [ ] Complete CCNA certification
+- [ ] TryHackMe — Jr Penetration Tester path
+- [ ] Docker + Kubernetes proficiency
+- [ ] AWS Solutions Architect Associate
+- [ ] CompTIA Security+
+- [ ] First open source contribution
+
+---
+
+## 📫 Let's Connect
+
+If you're working on something interesting in systems, security, or backend engineering — or you just want to argue about Dostoevsky — reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email](https://img.shields.io/badge/Email-Write-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+<div align="center">
+<sub>Built on Linux. Fueled by curiosity.</sub>
+</div>
