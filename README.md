@@ -112,17 +112,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asimayazmrd0987-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/asimayazmrd0987-glitch/asimayazmrd0987-glitch/blob/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asimayazmrd0987-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
