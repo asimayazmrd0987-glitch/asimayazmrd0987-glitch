@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- GLITCH TITLE BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,50:0A0A2E,100:000000&height=200&section=header&text=ASIM AYAZ&fontSize=80&fontColor=00FFD1&fontAlignY=55&desc=SYSTEMS%20ENGINEER%20·%20KERNEL%20HACKER%20·%20DevOps&descSize=16&descAlignY=80&descColor=FF2D78&stroke=00FFD1&strokeWidth=2&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,50:0A0A2E,100:000000&height=200&section=header&text=ASIM%20AYAZ&fontSize=80&fontColor=00FFD1&fontAlignY=55&desc=SYSTEMS%20ENGINEER%20%C2%B7%20KERNEL%20HACKER%20%C2%B7%20DevOps&descSize=16&descAlignY=80&descColor=FF2D78&stroke=00FFD1&strokeWidth=2&animation=twinkling"/>
 
 </div>
 
