@@ -95,13 +95,14 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Stats Overview
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asimayazmrd0987-glitch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimayazmrd0987-glitch&theme=tokyonight)
 
-[![Asim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimayazmrd0987-glitch&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimayazmrd0987-glitch&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimayazmrd0987-glitch&theme=tokyonight)
 
 </div>
 
@@ -111,7 +112,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asimayazmrd0987-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asimayazmrd0987-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
