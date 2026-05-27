@@ -97,7 +97,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 ---
 
-##🏆 Stats Overview
+## 🏆 Stats Overview
 
 <div align="center">
 
