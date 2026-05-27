@@ -101,19 +101,6 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 ---
 
-## 🏆 Stats Overview
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimayazmrd0987-glitch&theme=tokyonight)
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimayazmrd0987-glitch&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimayazmrd0987-glitch&theme=tokyonight)
-
-</div>
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
