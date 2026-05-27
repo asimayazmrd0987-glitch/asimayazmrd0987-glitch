@@ -39,28 +39,6 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 ---
 
-## 🔨 Featured Projects
-
-### [MyShell](https://github.com/asimayazmrd0987-glitch/myshell) — C++ Shell Interpreter
-
-> A cross-platform Unix-style shell interpreter built in C++ demonstrating 13 OOP concepts across 450+ lines of production code.
-
-- Custom command parsing, piping, and I/O redirection from scratch
-- Demonstrates: inheritance, polymorphism, operator overloading, dynamic memory, templates, and more
-- Built with a team of three as a semester capstone project
-- `C++` `OOP` `Systems` `Shell` `Cross-Platform`
-
----
-
-### [Synapse](https://github.com/asimayazmrd0987-glitch/synapse) — CS Problem Solving Platform *(In Progress)*
-
-> A full-stack web platform for structured CS problem-solving and collaborative learning.
-
-- React + Vite frontend · Node.js/Express backend · PostgreSQL database
-- `React` `Node.js` `Express` `PostgreSQL` `Full-Stack`
-
----
-
 ## 🧠 Languages & Tools
 
 <div align="center">
@@ -110,17 +88,6 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimayazmrd0987-glitch&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🗺️ Roadmap
-
-- [ ] Complete CCNA certification
-- [ ] TryHackMe — Jr Penetration Tester path
-- [ ] Docker + Kubernetes proficiency
-- [ ] AWS Solutions Architect Associate
-- [ ] CompTIA Security+
-- [ ] First open source contribution
 
 ---
 
