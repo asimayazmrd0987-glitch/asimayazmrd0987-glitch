@@ -7,14 +7,12 @@
 
 <div align="center">
 
-<!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=600&color=00FFD1&center=true&vCenter=true&width=800&lines=%5BROOT%40KERNEL%5D+~%24+sudo+chmod+777+%2Fmy%2Fbrain;I+speak+C%2C+Python%2C+and+Assembly.;CFS+scheduler%3F+I+rewrote+mine+from+scratch.;Linux+is+not+an+OS.+It%27s+a+philosophy.;vruntime+%3D+0+%3B+%2F%2F+let%27s+race;The+null+space+is+what+the+kernel+can%27t+see.;if+%28passion+%3E+sleep%29+%7B+keep_hacking()%3B+%7D)](https://git.io/typing-svg)
 
 </div>
 
 <br>
 
-<!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
@@ -27,15 +25,15 @@
 $ cat about.txt
 
 Name     : Asim Ayaz
-Role     : CS Student @ UET Mardan 
+Role     : CS Student @ UET Mardan
 Location : Pakistan
 OS       : Linux — always
 Focus    : Systems · Cybersecurity · Backend Engineering
-Learning : CCNA · Docker · Cloud/DevOps · C . C++ Internals . STL
+Learning : CCNA · Docker · Cloud/DevOps · C · C++ Internals · STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius
 ```
 
-I build things close to the metal. I'm more interested in *how* software works than in what it produces — compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration[Certified] and building toward a career in cybersecurity or backend/systems engineering.
+I build things close to the metal. I'm more interested in *how* software works than in what it produces — compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration [Certified] and building toward a career in cybersecurity or backend/systems engineering.
 
 I run Linux as my primary OS — not for aesthetics, but because understanding your tools at the OS level makes you a better engineer.
 
@@ -44,6 +42,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 ## 🔨 Featured Projects
 
 ### [MyShell](https://github.com/asimayazmrd0987-glitch/myshell) — C++ Shell Interpreter
+
 > A cross-platform Unix-style shell interpreter built in C++ demonstrating 13 OOP concepts across 450+ lines of production code.
 
 - Custom command parsing, piping, and I/O redirection from scratch
@@ -54,6 +53,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 ---
 
 ### [Synapse](https://github.com/asimayazmrd0987-glitch/synapse) — CS Problem Solving Platform *(In Progress)*
+
 > A full-stack web platform for structured CS problem-solving and collaborative learning.
 
 - React + Vite frontend · Node.js/Express backend · PostgreSQL database
@@ -66,6 +66,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 <div align="center">
 
 ### Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -74,6 +75,7 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Systems & DevOps
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -82,12 +84,14 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### Web & Database
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -101,10 +105,22 @@ I run Linux as my primary OS — not for aesthetics, but because understanding y
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimayazmrd0987-glitch&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimayazmrd0987-glitch&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimayazmrd0987-glitch&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimayazmrd0987-glitch&theme=tokyonight)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimayazmrd0987-glitch&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimayazmrd0987-glitch&theme=tokyonight)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asimayazmrd0987-glitch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimayazmrd0987-glitch&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
