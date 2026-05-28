@@ -25,17 +25,17 @@
 $ cat about.txt
 
 Name     : Asim Ayaz
-Role     : CS Student @ UET Mardan
+Role     : CS Student @ University of Engineering & Technology Mardan
 Location : Pakistan
 OS       : Linux — always
-Focus    : Systems · Cybersecurity · Backend Engineering
+Focus    : Systems · DevOps . Cloud . Cybersecurity · Backend Engineering
 Learning : CCNA · Docker · Cloud/DevOps · C · C++ Internals · STL
-Reading  : Dostoevsky · Camus · Marcus Aurelius
+Reading  : Dostoevsky · Camus · Marcus Aurelius . Kafka . Bertrand Russell
 ```
 
 I build things close to the metal. I am more interested in *how* things works than in what it produces compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration [Certified] and building toward a career in DevOps, Cloud Computing, Virtualization and  backend/systems engineering.
 
-I run Linux as my primary OS, not for aesthetics, but because understanding your tools at the OS level makes you a better engineer.
+I run Linux as my primary OS, not for aesthetics, but because understanding tools at the OS level makes you a better engineer.
 I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real time and gain alot of experience from it.
 
 ---
@@ -94,7 +94,7 @@ I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real ti
 
 ## 📫 Let's Connect
 
-If you're working on something interesting in systems, security, or backend engineering — or you just want to argue about Dostoevsky — reach out.
+If you're working on something interesting in systems, security, DevOps, Cloud or backend engineering or you just want to argue about Dostoevsky reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/asim-ayaz)
 [![Email](https://img.shields.io/badge/Email-Write-EA4335?style=for-the-badge&logo=gmail)](mailto:asimayazmrd0987@gmail.com)
