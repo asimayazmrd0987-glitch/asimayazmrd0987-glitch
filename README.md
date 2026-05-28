@@ -33,9 +33,10 @@ Learning : CCNA · Docker · Cloud/DevOps · C · C++ Internals · STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius
 ```
 
-I build things close to the metal. I'm more interested in *how* software works than in what it produces — compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration [Certified] and building toward a career in cybersecurity or backend/systems engineering.
+I build things close to the metal. I am more interested in *how* things works than in what it produces compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration [Certified] and building toward a career in DevOps, Cloud Computing, Virtualization and  backend/systems engineering.
 
-I run Linux as my primary OS — not for aesthetics, but because understanding your tools at the OS level makes you a better engineer.
+I run Linux as my primary OS, not for aesthetics, but because understanding your tools at the OS level makes you a better engineer.
+I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real time and gain alot of experience from it.
 
 ---
 
