@@ -80,13 +80,14 @@ I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real ti
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=asimayazmrd0987-glitch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimayazmrd0987-glitch&theme=tokyonight)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asimayazmrd0987-glitch&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimayazmrd0987-glitch&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimayazmrd0987-glitch&theme=tokyonight)
 
 </div>
 
