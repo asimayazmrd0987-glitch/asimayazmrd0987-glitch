@@ -29,6 +29,7 @@ Role     : CS Student @ University of Engineering & Technology Mardan
 Location : Pakistan
 OS       : Linux — always
 Focus    : Systems · DevOps . Cloud . Cybersecurity · Backend Engineering
+Certs    : System Administration and IT Infrastructure [Metapi Academy]
 Learning : CCNA · Docker · Cloud/DevOps · C · C++ Internals · STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius . Kafka . Bertrand Russell
 ```
