@@ -25,11 +25,10 @@
 $ cat about.txt
 
 Name     : Asim Ayaz
-Role     : CS Student @ University of Engineering & Technology Mardan
-Location : Pakistan
+Role     : DevOps
 OS       : Linux — always
 Focus    : Systems · DevOps . Cloud . Cybersecurity · Backend Engineering
-Certs    : System Administration and IT Infrastructure [Metapi Academy]
+Certs    : System Administration and IT Infrastructure 
 Learning : CCNA · Docker · Cloud/DevOps · C · C++ Internals · STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius . Kafka . Bertrand Russell
 ```
@@ -96,7 +95,7 @@ I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real ti
 
 ## 📫 Let's Connect
 
-If you're working on something interesting in systems, security, DevOps, Cloud or backend engineering or you just want to argue about Dostoevsky reach out.
+If you are working on something interesting in systems, security, DevOps, Cloud, backend engineering or you just want to argue about Dostoevsky reach out.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/asim-ayaz)
 [![Email](https://img.shields.io/badge/Email-Write-EA4335?style=for-the-badge&logo=gmail)](mailto:asimayazmrd0987@gmail.com)
