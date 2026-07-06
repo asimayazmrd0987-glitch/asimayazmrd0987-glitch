@@ -29,18 +29,18 @@ Role     : DevOps
 OS       : Linux — always
 Focus    : Systems · DevOps . Cloud . Cybersecurity · Backend Engineering
 Certs    : System Administration and IT Infrastructure 
-Learning : CCNA · Docker · Cloud/DevOps · C · C++ Internals · STL
+Learning : DevOps . CCNA · Cloud · C · C++ Internals · STL
 Reading  : Dostoevsky · Camus · Marcus Aurelius . Kafka . Bertrand Russell
 ```
 
 I build things close to the metal. I am more interested in *how* things works than in what it produces compilers, interpreters, operating systems, and networks are where I naturally end up. Currently studying Computer Science while pursuing CCNA certification, System Administration [Certified] and building toward a career in DevOps, Cloud Computing, Virtualization and  backend/systems engineering.
 
 I run Linux as my primary OS, not for aesthetics, but because understanding tools at the OS level makes you a better engineer.
-I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real time and gain alot of experience from it.
+I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real time.
 
 ---
 
-## 🧠 Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
@@ -80,7 +80,7 @@ I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real ti
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -93,7 +93,7 @@ I have used Ubunut Pro, KDE Plasma, Fedora, Kali Linux, and Parrot OS in real ti
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 If you are working on something interesting in systems, security, DevOps, Cloud, backend engineering or you just want to argue about Dostoevsky reach out.
 
