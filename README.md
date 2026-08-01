@@ -1,2 +1,3 @@
-> ONE MUST IMAGINE SISYPHUS HAPPY_
-> STAY HARD_
+Ｏ Ｎ Ｅ   Ｍ Ｕ Ｓ Ｔ   Ｉ Ｍ Ａ Ｇ Ｉ Ｎ Ｅ   Ｓ Ｉ Ｓ Ｙ Ｐ Ｈ Ｕ Ｓ   Ｈ Ａ Ｐ Ｐ Ｙ
+
+Ｓ Ｔ Ａ Ｙ   Ｈ Ａ Ｒ Ｄ
