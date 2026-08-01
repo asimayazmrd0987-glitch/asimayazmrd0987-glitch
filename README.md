@@ -1,3 +1,3 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=100&section=header&text=ONE%20MUST%20IMAGINE%20SISYPHUS%20HAPPY&fontSize=20&fontColor=ffffff&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=%F0%9D%95%B8%F0%9D%96%93%F0%9D%96%8E%20%F0%9D%96%92%F0%9D%96%9A%F0%9D%96%98%F0%9D%96%99%20%F0%9D%96%8E%F0%9D%96%92%F0%9D%96%86%F0%9D%96%8E%F0%9D%96%9C%F0%9D%96%8E%20%F0%9D%96%98%F0%9D%96%8E%F0%9D%96%9C%F0%9D%96%9E%F0%9D%96%95%F0%9D%96%9B%F0%9D%96%9E%F0%9D%96%98%20%F0%9D%96%8B%F0%9D%96%86%F0%9D%96%9F%F0%9D%96%95%F0%9D%96%9E%F0%9D%96%98&fontSize=22&fontColor=ffffff&animation=fadeIn)
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FFAA00&height=100&section=header&text=STAY%20HARD&fontSize=28&fontColor=ffffff&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FFAA00&height=120&section=header&text=%F0%9D%95%B8%F0%9D%96%99%F0%9D%96%86%F0%9D%96%9E%20%F0%9D%95%B3%F0%9D%96%86%F0%9D%96%97%F0%9D%96%89&fontSize=30&fontColor=ffffff&animation=fadeIn)
