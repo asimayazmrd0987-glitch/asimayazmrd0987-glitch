@@ -1,3 +1,3 @@
-Ｏ Ｎ Ｅ   Ｍ Ｕ Ｓ Ｔ   Ｉ Ｍ Ａ Ｇ Ｉ Ｎ Ｅ   Ｓ Ｉ Ｓ Ｙ Ｐ Ｈ Ｕ Ｓ   Ｈ Ａ Ｐ Ｐ Ｙ
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=100&section=header&text=ONE%20MUST%20IMAGINE%20SISYPHUS%20HAPPY&fontSize=20&fontColor=ffffff&animation=fadeIn)
 
-Ｓ Ｔ Ａ Ｙ   Ｈ Ａ Ｒ Ｄ
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FFAA00&height=100&section=header&text=STAY%20HARD&fontSize=28&fontColor=ffffff&animation=fadeIn)
