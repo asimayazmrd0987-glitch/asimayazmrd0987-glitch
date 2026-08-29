@@ -1,2 +1,2 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:FF0055,100:FFAA00&height=120&section=header&text=STAY%20HARD&fontSize=32&fontColor=ffffff&animation=fadeIn)
-![](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=ONE%20MUST%20IMAGINE%20SISYPHUS%20HAPPY&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00FFFF&height=120&section=header&text=The%20Happiness%20of%20Your%20Life%20Depends%20Upon%20The%20Quality%20of%20Your%20Thoughts&fontSize=25&fontColor=ffffff&animation=fadeIn)
